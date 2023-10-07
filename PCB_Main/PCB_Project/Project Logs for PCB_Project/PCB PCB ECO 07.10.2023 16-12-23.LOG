@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=Vbat Pin=Bat1-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=Vbat Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=IC12-2
+Removed Pin From Net: NetName=Vcc Pin=MCU1-1
+Removed Pin From Net: NetName=RESET Pin=MCU1-4
+Removed Pin From Net: NetName=Vcc Pin=MCU1-5
+Removed Pin From Net: NetName=SPI1_NSS_2 Pin=MCU1-6
+Removed Pin From Net: NetName=SPI1_NSS_1 Pin=MCU1-10
+Removed Pin From Net: NetName=SPI1_MOSI Pin=MCU1-11
+Removed Pin From Net: NetName=SPI1_MISO Pin=MCU1-12
+Removed Pin From Net: NetName=SPI1_SCK Pin=MCU1-13
+Removed Pin From Net: NetName=GND Pin=MCU1-16
+Removed Pin From Net: NetName=Vcc Pin=MCU1-17
+Removed Pin From Net: NetName=GND Pin=MCU1-32
+Removed Pin From Net: NetName=GND Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Pin From Net: NetName=Vbat Pin=U11-6
+Removed Pin From Net: NetName=GND Pin=U11-7
+Removed Member From Class: ClassName=U_CPU&Power Member=MCU1
+Change Component Comment : Designator=C20 Old Comment=100n New Comment=100nF
+Change Component Comment : Designator=C21 Old Comment=100n New Comment=100nF
+Change Component Comment : Designator=C22 Old Comment=100n New Comment=100nF
+Change Component Comment : Designator=C23 Old Comment=100n New Comment=100nF
+Change Component Comment : Designator=C31 Old Comment=Capacitor_1 New Comment=100nF
+Change Component Comment : Designator=C32 Old Comment=Capacitor_1 New Comment=100nF
+Change Component Comment : Designator=C33 Old Comment=Capacitor_1 New Comment=100nF
+Change Component Comment : Designator=R31 Old Comment=Resistor New Comment=100R
+Change Component Comment : Designator=R32 Old Comment=Resistor New Comment=100R
+Change Component Comment : Designator=R33 Old Comment=Resistor New Comment=100R
+Change Component Comment : Designator=R34 Old Comment=Resistor New Comment=100R
+Change Component Comment : Designator=R35 Old Comment=Resistor New Comment=100R
+Added Component: Designator=IC1(QFP80P900X900X160-32N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STM32L051K8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32l051k8t6/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.in/datasheet/2/389/dm00108219-1798237.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32L051K8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32L051K8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32L051K8T6?qs=s5SkPsIz108Y%252BphFHRhdjA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Switch(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vcc Pin=IC1-1
+Added Pin To Net: NetName=RESET Pin=IC1-4
+Added Pin To Net: NetName=Vcc Pin=IC1-5
+Added Pin To Net: NetName=SPI1_NSS_1 Pin=IC1-10
+Added Pin To Net: NetName=SPI1_SCK Pin=IC1-11
+Added Pin To Net: NetName=SPI1_MISO Pin=IC1-12
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC1-13
+Added Pin To Net: NetName=GND Pin=IC1-16
+Added Pin To Net: NetName=Vcc Pin=IC1-17
+Added Pin To Net: NetName=SPI1_NSS_2 Pin=IC1-29
+Added Pin To Net: NetName=GND Pin=IC1-32
+Added Pin To Net: NetName=Vcc Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=Vbat Pin=Switch-2
+Change Net Name : Old Net Name=Vbat New Net Name=NetC01_1
+Added Pin To Net: NetName=ADC_IN0 Pin=IC1-6
+Added Pin To Net: NetName=ADC_IN0 Pin=P1-1
+Added Net: Name=ADC_IN0
+Added Pin To Net: NetName=ADC_IN1 Pin=IC1-7
+Added Pin To Net: NetName=ADC_IN1 Pin=P1-2
+Added Net: Name=ADC_IN1
+Added Pin To Net: NetName=ADC_IN8 Pin=IC1-14
+Added Pin To Net: NetName=ADC_IN8 Pin=P1-3
+Added Net: Name=ADC_IN8
+Added Pin To Net: NetName=ADC_IN9 Pin=IC1-15
+Added Pin To Net: NetName=ADC_IN9 Pin=P1-4
+Added Net: Name=ADC_IN9
+Added Pin To Net: NetName=NetBat1_2 Pin=Bat1-2
+Added Pin To Net: NetName=NetBat1_2 Pin=Switch-1
+Added Net: Name=NetBat1_2
+Added Pin To Net: NetName=NetIC1_18 Pin=IC1-18
+Added Pin To Net: NetName=NetIC1_18 Pin=U21-5
+Added Net: Name=NetIC1_18
+Added Pin To Net: NetName=NetIC1_19 Pin=IC1-19
+Added Pin To Net: NetName=NetIC1_19 Pin=MOD31-14
+Added Net: Name=NetIC1_19
+Added Pin To Net: NetName=NetIC1_20 Pin=IC1-20
+Added Pin To Net: NetName=NetIC1_20 Pin=MOD31-42
+Added Net: Name=NetIC1_20
+Added Pin To Net: NetName=NetIC1_21 Pin=IC1-21
+Added Pin To Net: NetName=NetIC1_21 Pin=MOD31-44
+Added Net: Name=NetIC1_21
+Added Pin To Net: NetName=NetIC1_22 Pin=IC1-22
+Added Pin To Net: NetName=NetIC1_22 Pin=MOD31-15
+Added Net: Name=NetIC1_22
+Added Pin To Net: NetName=NetIC1_23 Pin=IC1-23
+Added Pin To Net: NetName=NetIC1_23 Pin=J01-2
+Added Net: Name=NetIC1_23
+Added Pin To Net: NetName=NetIC1_24 Pin=IC1-24
+Added Pin To Net: NetName=NetIC1_24 Pin=J01-4
+Added Net: Name=NetIC1_24
+Added Pin To Net: NetName=NetIC1_25 Pin=IC1-25
+Added Pin To Net: NetName=NetIC1_25 Pin=MOD31-6
+Added Pin To Net: NetName=NetIC1_25 Pin=R34-1
+Added Net: Name=NetIC1_25
+Added Pin To Net: NetName=NetIC1_26 Pin=IC1-26
+Added Pin To Net: NetName=NetIC1_26 Pin=MOD31-8
+Added Net: Name=NetIC1_26
+Added Pin To Net: NetName=NetIC1_27 Pin=IC1-27
+Added Pin To Net: NetName=NetIC1_27 Pin=U21-6
+Added Net: Name=NetIC1_27
+Added Pin To Net: NetName=UART2_RX Pin=IC1-9
+Added Pin To Net: NetName=UART2_RX Pin=R02-2
+Added Net: Name=UART2_RX
+Added Pin To Net: NetName=UART2_TX Pin=IC1-8
+Added Pin To Net: NetName=UART2_TX Pin=R03-1
+Added Net: Name=UART2_TX
+Added Member To Class: ClassName=U_CPU&Power Member=Component C07 1uF
+Added Member To Class: ClassName=U_CPU&Power Member=Component C09 10uF
+Added Member To Class: ClassName=U_CPU&Power Member=Component IC1 STM32L051K8T6
+Added Member To Class: ClassName=U_CPU&Power Member=Component P1 Header 6
+Added Member To Class: ClassName=U_CPU&Power Member=Component Switch Header 2

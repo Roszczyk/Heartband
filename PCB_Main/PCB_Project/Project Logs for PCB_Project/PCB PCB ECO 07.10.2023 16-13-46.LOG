@@ -1,0 +1,179 @@
+Added Component: Designator=Bat1(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C01(0402_CAP)
+Added Component: Designator=C02(0402_CAP)
+Added Component: Designator=C03(0402_CAP)
+Added Component: Designator=C04(0402_CAP)
+Added Component: Designator=C05(0402_CAP)
+Added Component: Designator=C07(0402_CAP)
+Added Component: Designator=C08(0402_CAP)
+Added Component: Designator=C09(0402_CAP)
+Added Component: Designator=C010(0402_CAP)
+Added Component: Designator=C20(0402_CAP)
+Added Component: Designator=C21(0402_CAP)
+Added Component: Designator=C22(0402_CAP)
+Added Component: Designator=C23(0402_CAP)
+Added Component: Designator=C31(0402_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(0402_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C33(0402_CAP)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=MOD31(45300059C_m)
+Add component (AddParameter): Name = "Alt. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alt. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://connectivity-staging.s3.us-east-2.amazonaws.com/s3fs-public/2018-12/BL654%20Datasheet%20v1_6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Laird"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "453-00059"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40C~85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Subpart Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Substitutes Allowed"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R01(0402_RES)
+Added Component: Designator=R20(0402_RES)
+Added Component: Designator=R21(0402_RES)
+Added Component: Designator=R31(0402_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R32(0402_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R33(0402_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R35(0402_RES)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=U01(SON65P200X200X80-7N_m)
+Added Component: Designator=U20(MODBME280_m)
+Added Component: Designator=U21(BOSCH_LGA-12)
+Added Pin To Net: NetName=GND Pin=Bat1-1
+Added Pin To Net: NetName=NetBat1_2 Pin=Bat1-2
+Added Pin To Net: NetName=NetC01_1 Pin=C01-1
+Added Pin To Net: NetName=GND Pin=C01-2
+Added Pin To Net: NetName=Vcc Pin=C02-1
+Added Pin To Net: NetName=GND Pin=C02-2
+Added Pin To Net: NetName=GND Pin=C03-1
+Added Pin To Net: NetName=Vcc Pin=C03-2
+Added Pin To Net: NetName=GND Pin=C04-1
+Added Pin To Net: NetName=Vcc Pin=C04-2
+Added Pin To Net: NetName=GND Pin=C05-1
+Added Pin To Net: NetName=Vcc Pin=C05-2
+Added Pin To Net: NetName=GND Pin=C07-1
+Added Pin To Net: NetName=Vcc Pin=C07-2
+Added Pin To Net: NetName=GND Pin=C08-1
+Added Pin To Net: NetName=Vcc Pin=C08-2
+Added Pin To Net: NetName=GND Pin=C09-1
+Added Pin To Net: NetName=Vcc Pin=C09-2
+Added Pin To Net: NetName=RESET Pin=C010-1
+Added Pin To Net: NetName=GND Pin=C010-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=Vcc Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=Vcc Pin=C22-2
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=Vcc Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=Vcc Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=Vcc Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=GND Pin=MOD31-1
+Added Pin To Net: NetName=GND Pin=MOD31-3
+Added Pin To Net: NetName=GND Pin=MOD31-5
+Added Pin To Net: NetName=NetIC1_25 Pin=MOD31-6
+Added Pin To Net: NetName=GND Pin=MOD31-7
+Added Pin To Net: NetName=NetIC1_26 Pin=MOD31-8
+Added Pin To Net: NetName=GND Pin=MOD31-9
+Added Pin To Net: NetName=GND Pin=MOD31-11
+Added Pin To Net: NetName=NetIC1_19 Pin=MOD31-14
+Added Pin To Net: NetName=NetIC1_22 Pin=MOD31-15
+Added Pin To Net: NetName=GND Pin=MOD31-16
+Added Pin To Net: NetName=GND Pin=MOD31-18
+Added Pin To Net: NetName=GND Pin=MOD31-20
+Added Pin To Net: NetName=Vcc Pin=MOD31-21
+Added Pin To Net: NetName=Vcc Pin=MOD31-22
+Added Pin To Net: NetName=GND Pin=MOD31-24
+Added Pin To Net: NetName=Vcc Pin=MOD31-30
+Added Pin To Net: NetName=NetMOD31_31 Pin=MOD31-31
+Added Pin To Net: NetName=NetMOD31_34 Pin=MOD31-34
+Added Pin To Net: NetName=NetIC1_20 Pin=MOD31-42
+Added Pin To Net: NetName=NetIC1_21 Pin=MOD31-44
+Added Pin To Net: NetName=GND Pin=MOD31-48
+Added Pin To Net: NetName=NetMOD31_51 Pin=MOD31-51
+Added Pin To Net: NetName=NetMOD31_52 Pin=MOD31-52
+Added Pin To Net: NetName=GND Pin=MOD31-G1
+Added Pin To Net: NetName=GND Pin=MOD31-G2
+Added Pin To Net: NetName=GND Pin=MOD31-G3
+Added Pin To Net: NetName=GND Pin=MOD31-G4
+Added Pin To Net: NetName=GND Pin=MOD31-G5
+Added Pin To Net: NetName=GND Pin=MOD31-G6
+Added Pin To Net: NetName=GND Pin=MOD31-G7
+Added Pin To Net: NetName=RESET Pin=R01-1
+Added Pin To Net: NetName=NetJ01_10 Pin=R01-2
+Added Pin To Net: NetName=NetC20_2 Pin=R20-1
+Added Pin To Net: NetName=Vcc Pin=R20-2
+Added Pin To Net: NetName=NetC23_1 Pin=R21-1
+Added Pin To Net: NetName=Vcc Pin=R21-2
+Added Pin To Net: NetName=NetJ31_2 Pin=R31-1
+Added Pin To Net: NetName=NetMOD31_52 Pin=R31-2
+Added Pin To Net: NetName=NetJ31_6 Pin=R32-1
+Added Pin To Net: NetName=NetMOD31_51 Pin=R32-2
+Added Pin To Net: NetName=NetMOD31_31 Pin=R33-1
+Added Pin To Net: NetName=NetJ31_4 Pin=R33-2
+Added Pin To Net: NetName=Vcc Pin=R35-1
+Added Pin To Net: NetName=NetMOD31_34 Pin=R35-2
+Added Pin To Net: NetName=Vcc Pin=U01-1
+Added Pin To Net: NetName=NetC01_1 Pin=U01-4
+Added Pin To Net: NetName=GND Pin=U01-5
+Added Pin To Net: NetName=NetC01_1 Pin=U01-6
+Added Pin To Net: NetName=GND Pin=U01-7
+Added Pin To Net: NetName=GND Pin=U20-1
+Added Pin To Net: NetName=SPI1_NSS_1 Pin=U20-2
+Added Pin To Net: NetName=SPI1_MOSI Pin=U20-3
+Added Pin To Net: NetName=SPI1_SCK Pin=U20-4
+Added Pin To Net: NetName=SPI1_MISO Pin=U20-5
+Added Pin To Net: NetName=Vcc Pin=U20-6
+Added Pin To Net: NetName=GND Pin=U20-7
+Added Pin To Net: NetName=NetC20_2 Pin=U20-8
+Added Pin To Net: NetName=SPI1_MISO Pin=U21-1
+Added Pin To Net: NetName=SPI1_MOSI Pin=U21-2
+Added Pin To Net: NetName=Vcc Pin=U21-3
+Added Pin To Net: NetName=NetIC1_18 Pin=U21-5
+Added Pin To Net: NetName=NetIC1_27 Pin=U21-6
+Added Pin To Net: NetName=NetC23_1 Pin=U21-7
+Added Pin To Net: NetName=GND Pin=U21-8
+Added Pin To Net: NetName=GND Pin=U21-9
+Added Pin To Net: NetName=SPI1_NSS_2 Pin=U21-10
+Added Pin To Net: NetName=SPI1_SCK Pin=U21-12
+Added Member To Class: ClassName=U_CPU&Power Member=Component Bat1 Header 2
+Added Member To Class: ClassName=U_CPU&Power Member=Component C01 1uF
+Added Member To Class: ClassName=U_CPU&Power Member=Component C02 1uF
+Added Member To Class: ClassName=U_CPU&Power Member=Component C03 100nF
+Added Member To Class: ClassName=U_CPU&Power Member=Component C04 100nF
+Added Member To Class: ClassName=U_CPU&Power Member=Component C05 100nF
+Added Member To Class: ClassName=U_CPU&Power Member=Component C07 1uF
+Added Member To Class: ClassName=U_CPU&Power Member=Component C08 10uF
+Added Member To Class: ClassName=U_CPU&Power Member=Component C09 10uF
+Added Member To Class: ClassName=U_CPU&Power Member=Component C010 100nF
+Added Member To Class: ClassName=U_DigitalSensors Member=Component C20 100nF
+Added Member To Class: ClassName=U_DigitalSensors Member=Component C21 100nF
+Added Member To Class: ClassName=U_DigitalSensors Member=Component C22 100nF
+Added Member To Class: ClassName=U_DigitalSensors Member=Component C23 100nF
+Added Member To Class: ClassName=U_BL653u Member=Component C31 100nF
+Added Member To Class: ClassName=U_BL653u Member=Component C32 100nF
+Added Member To Class: ClassName=U_BL653u Member=Component C33 100nF
+Added Member To Class: ClassName=U_BL653u Member=Component MOD31 Laird, BL653u
+Added Member To Class: ClassName=U_CPU&Power Member=Component R01 100R
+Added Member To Class: ClassName=U_DigitalSensors Member=Component R20 100R
+Added Member To Class: ClassName=U_DigitalSensors Member=Component R21 100R
+Added Member To Class: ClassName=U_BL653u Member=Component R31 100R
+Added Member To Class: ClassName=U_BL653u Member=Component R32 100R
+Added Member To Class: ClassName=U_BL653u Member=Component R33 100R
+Added Member To Class: ClassName=U_BL653u Member=Component R35 100R
+Added Member To Class: ClassName=U_CPU&Power Member=Component U01 LP5912-Q1.5DRVRQ1
+Added Member To Class: ClassName=U_DigitalSensors Member=Component U20 BME280
+Added Member To Class: ClassName=U_DigitalSensors Member=Component U21 BMA456
